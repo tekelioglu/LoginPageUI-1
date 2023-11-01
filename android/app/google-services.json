@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838252317793",
+    "project_id": "zinc-silicon-395607",
+    "storage_bucket": "zinc-silicon-395607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838252317793:android:f83db61f347bd27493ae20",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838252317793-bc8av7odjb4l1kd3psar5j24rfqvgpfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGdZ1LI3bAJk9WmjZG4dSTImo5lFpwagk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838252317793-bc8av7odjb4l1kd3psar5j24rfqvgpfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
